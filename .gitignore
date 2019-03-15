@@ -4,6 +4,7 @@
 */.idea
 local.properties
 /build
+/out
 /*/build
 /*/*/build
 /.gradle
